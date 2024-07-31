@@ -1,0 +1,14 @@
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\bin\Debug\net8.0\FuncoesDeMinEMax.exe
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\bin\Debug\net8.0\FuncoesDeMinEMax.deps.json
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\bin\Debug\net8.0\FuncoesDeMinEMax.runtimeconfig.json
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\bin\Debug\net8.0\FuncoesDeMinEMax.dll
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\bin\Debug\net8.0\FuncoesDeMinEMax.pdb
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\obj\Debug\net8.0\FuncoesDeMinEMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\obj\Debug\net8.0\FuncoesDeMinEMax.AssemblyInfoInputs.cache
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\obj\Debug\net8.0\FuncoesDeMinEMax.AssemblyInfo.cs
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\obj\Debug\net8.0\FuncoesDeMinEMax.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\obj\Debug\net8.0\FuncoesDeMinEMax.dll
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\obj\Debug\net8.0\refint\FuncoesDeMinEMax.dll
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\obj\Debug\net8.0\FuncoesDeMinEMax.pdb
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\obj\Debug\net8.0\FuncoesDeMinEMax.genruntimeconfig.cache
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\FuncoesDeMinEMax\obj\Debug\net8.0\ref\FuncoesDeMinEMax.dll
