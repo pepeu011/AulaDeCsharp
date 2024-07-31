@@ -1,0 +1,14 @@
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\bin\Debug\net8.0\TiposDeDadosInteiros.exe
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\bin\Debug\net8.0\TiposDeDadosInteiros.deps.json
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\bin\Debug\net8.0\TiposDeDadosInteiros.runtimeconfig.json
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\bin\Debug\net8.0\TiposDeDadosInteiros.dll
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\bin\Debug\net8.0\TiposDeDadosInteiros.pdb
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.AssemblyInfoInputs.cache
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.AssemblyInfo.cs
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.dll
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\obj\Debug\net8.0\refint\TiposDeDadosInteiros.dll
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.pdb
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\obj\Debug\net8.0\TiposDeDadosInteiros.genruntimeconfig.cache
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosInteiros\obj\Debug\net8.0\ref\TiposDeDadosInteiros.dll
