@@ -1,0 +1,14 @@
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\bin\Debug\net8.0\TiposDeDadosPontoFlutuante.exe
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\bin\Debug\net8.0\TiposDeDadosPontoFlutuante.deps.json
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\bin\Debug\net8.0\TiposDeDadosPontoFlutuante.runtimeconfig.json
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\bin\Debug\net8.0\TiposDeDadosPontoFlutuante.dll
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\bin\Debug\net8.0\TiposDeDadosPontoFlutuante.pdb
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\obj\Debug\net8.0\TiposDeDadosPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\obj\Debug\net8.0\TiposDeDadosPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\obj\Debug\net8.0\TiposDeDadosPontoFlutuante.AssemblyInfo.cs
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\obj\Debug\net8.0\TiposDeDadosPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\obj\Debug\net8.0\TiposDeDadosPontoFlutuante.dll
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\obj\Debug\net8.0\refint\TiposDeDadosPontoFlutuante.dll
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\obj\Debug\net8.0\TiposDeDadosPontoFlutuante.pdb
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\obj\Debug\net8.0\TiposDeDadosPontoFlutuante.genruntimeconfig.cache
+C:\Users\pedro.hctoledo\source\repos\TiposDeDadosInteiros\TiposDeDadosPontoFlutuante\obj\Debug\net8.0\ref\TiposDeDadosPontoFlutuante.dll
